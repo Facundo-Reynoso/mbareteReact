@@ -5,7 +5,6 @@ import Slider2 from "../assets/slider2.png";
 import Slider3 from "../assets/slider3.png";
 import Image from "react-bootstrap/Image";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../css/Slider.css";
 
 const Slider = () => {
   return (
